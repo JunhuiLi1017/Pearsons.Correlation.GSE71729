@@ -1,0 +1,35 @@
+GSE
+
+NK signature 1: 
+$`14_gene_NK_signature_from_Cozar_etal_2021.txt`
+ [1] "CD160"   "CD244"   "CHST12"  "CST7"    "GNLY"    "IL18RAP" "IL2RB"   "KLRC1"  
+ [9] "KLRC3"   "KLRD1"   "KLRF1"   "NCR1"    "PRF1"   
+
+NK signature 2: 
+$NK_genes_curated_from_Cursons_etal_2019.txt
+  [1] "APOBEC3G" "APOL6"    "AZU1"     "BPI"      "CAMP"     "CCL4"     "CCL5"    
+  [8] "CCND2"    "CD160"    "CD2"      "CD244"    "CD247"    "CD69"     "CD7"     
+ [15] "CD96"     "CDHR1"    "CDK6"     "CEACAM8"  "CLNK"     "CMA1"     "CRTAM"   
+ [22] "CSF2"     "CST7"     "CTSW"     "DEFA4"    "DPP4"     "ELANE"    "ELOVL6"  
+ [29] "ENPP5"    "EOMES"    "FASLG"    "FCGR3A"   "FCGR3B"   "GFI1"     "GNLY"    
+ [36] "GPR171"   "GPR18"    "GRAP2"    "GZMA"     "GZMB"     "GZMH"     "GZMK"    
+ [43] "GZMM"     "IFNG"     "IL12RB2"  "IL15"     "IL18R1"   "IL18RAP"  "IL2RB"   
+ [50] "KIR2DL1"  "KIR2DL2"  "KIR2DL4"  "KIR2DL5A" "KIR2DS4"  "KIR3DL1"  "KIR3DL2" 
+ [57] "KIR3DL3"  "KLF12"    "KLHL30"   "KLRA1P"   "KLRB1"    "KLRC3"    "KLRC4"   
+ [64] "KLRD1"    "KLRF1"    "KLRG1"    "KLRK1"    "LCK"      "LTA"      "LTB"     
+ [71] "MGAM"     "MS4A3"    "MYBL1"    "NAALADL1" "NCAM1"    "NCR1"     "NCR3"    
+ [78] "NKG7"     "NME8"     "OSM"      "PLEKHF1"  "POGK"     "PRF1"     "PRR5L"   
+ [85] "PTGDR"    "PTGER2"   "PTPRCAP"  "PVRIG"    "PYHIN1"   "RAB27B"   "S1PR5"   
+ [92] "SAMD3"    "SERPINB9" "SH2D1A"   "SH2D1B"   "SOCS1"    "STYK1"    "TBX21"   
+ [99] "TEP1"     "TNF"      "TNFSF14"  "TTC38"    "TXK"      "XCL1"     "ZAP70"   
+[106] "ZNF135"  
+
+NK signature 3: 
+$NK_Score_20_genes_from_Cursons_etal_2019.txt
+ [1] "CD160"   "CD244"   "CTSW"    "FASLG"   "GZMA"    "GZMB"    "GZMH"    "IL18RAP"
+ [9] "IL2RB"   "KIR2DL4" "KLRB1"   "KLRC3"   "KLRD1"   "KLRF1"   "KLRK1"   "NCR1"   
+[17] "NKG7"    "PRF1"    "XCL1"   
+
+
+individual gene listed in dataset
+"CCL2"   "CCL7"   "CCL8"   "CXCL9"  "CXCL10"
